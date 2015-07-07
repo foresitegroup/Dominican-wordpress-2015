@@ -14,7 +14,7 @@
   </div>
 
   <div class="services">
-    <a href="parent-involvment" data-sr="enter left ease-in-out 100px over 0.7s"><i class="home-icon fa fa-shield fa-3x"></i></a>
+    <a href="current-families/parent-involvement/" data-sr="enter left ease-in-out 100px over 0.7s"><i class="home-icon fa fa-shield fa-3x"></i></a>
     <h4>Parents</h4>
     <hr>
   </div>
