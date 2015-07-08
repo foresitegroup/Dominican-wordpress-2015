@@ -351,7 +351,7 @@ input[type="submit"],
 #menu-sticky UL LI UL LI:hover UL {
   display: block;
   top: 0;
-  left: 102%;
+  left: 101%;
 }
 
 #menu-sticky UL LI UL LI:hover UL LI A:link,
