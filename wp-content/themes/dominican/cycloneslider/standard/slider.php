@@ -96,10 +96,10 @@
     <div class="cycloneslider-pager"></div>
     <?php endif; ?>
     <?php if ($slider_settings['show_prev_next']) : ?>
-    <a href="#" class="cycloneslider-prev">
+    <a href="#" class="cycloneslider-prev<?php if ( 'custom' == $slide['type'] ) echo ' small'; ?>">
         <span class="arrow"></span>
     </a>
-    <a href="#" class="cycloneslider-next">
+    <a href="#" class="cycloneslider-next<?php if ( 'custom' == $slide['type'] ) echo ' small'; ?>">
         <span class="arrow"></span>
     </a>
     <?php endif; ?>
