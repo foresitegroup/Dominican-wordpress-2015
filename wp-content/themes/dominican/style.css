@@ -218,7 +218,7 @@ input[type="submit"],
   position: fixed;
   top: 0;
   left: 0;
-  z-index: 10000;
+  z-index: 100000;
   background: #FFFFFF;
   width: 100%;
   border-bottom: 1px solid #DCDBD7;
@@ -285,7 +285,7 @@ input[type="submit"],
   position: absolute;
   top: 50px;
   left: 0;
-  z-index: 10000;
+  z-index: 100000;
   background: #FFFFFF;
   box-shadow: 0px 4px 13px -3px #808080;
 }
@@ -1086,6 +1086,7 @@ UL.two-column LI {
     width: 100%;
     font-size: 1.5em;
     background-color: #FFFFFF;
+    z-index: 100000;
   }
 
   #menu-sticky UL LI {
