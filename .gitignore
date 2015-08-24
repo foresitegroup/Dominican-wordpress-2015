@@ -49,3 +49,4 @@ wp-content/*
 wp-content/themes/*
 !wp-content/themes/dominican
 !wp-content/cycloneslider/
+!application.php
