@@ -1283,4 +1283,10 @@ UL.two-column LI {
     font-size: 80%;
     line-height: 1.3em;
   }
+
+  .three-col {
+    float: none;
+    width: 100%;
+    margin: 0 0 2em 0;
+  }
 }
