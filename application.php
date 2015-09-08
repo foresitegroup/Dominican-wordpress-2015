@@ -426,10 +426,13 @@ if (isset($_POST['submit']) && $_POST['confirmationCAP'] == "") {
     Thank you for starting the Student Application process. Your information will be reviewed.<br>
     <br>
 
-    In order to complete the Student Application process, please pay the one time Student Application Fee.<br>
+    In order to complete the Student Application process, please pay the one time Student Application Fee, and have your current middle school complete our Records Request Form.<br>
     <br>
 
     Go <a title=\"Donate\" href=\"http://www.dominicanhighschool.com/alumni-friends/donate/\">here</a> and pay the Student Application Fee.<br>
+    <br>
+
+    Go <a title=\"Donate\" href=\"http://www.dominicanhighschool.com/wp-content/uploads/2015/07/Records_Request.pdf\">here</a> to access the Records Request Form.<br>
     <br>
 
     If you have any questions or concerns please contact the Admissions Department at Dominican High School.<br>
