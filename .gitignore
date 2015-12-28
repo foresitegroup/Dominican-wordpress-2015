@@ -50,3 +50,4 @@ wp-content/themes/*
 !wp-content/themes/dominican
 !wp-content/cycloneslider/
 !application.php
+wp-content/themes/dominican/.DS_Store
